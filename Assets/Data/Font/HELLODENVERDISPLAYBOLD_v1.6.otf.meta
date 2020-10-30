@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0a8cd346d94647f44bc960df6becc5bf
+timeCreated: 1504465319
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: HELLO DENVER DISPLAY BOLD
+  fontNames:
+  - HELLO DENVER DISPLAY BOLD
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
